@@ -58,3 +58,9 @@ Buku dan repository ini ditulis oleh:
 ---
 
 📖 *Repository ini diharapkan dapat menjadi jembatan antara konsep teoritis dan implementasi nyata dalam pengembangan Artificial Intelligence of Things.*
+
+## 🧩 Cover Buku
+<p align="center">
+  <img src="Cover Buku AIoT.jpg" width="700">
+</p>
+
