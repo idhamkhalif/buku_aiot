@@ -1,4 +1,4 @@
-# 📘 Artificial Intelligence of Things (AIoT): Mewujudkan Teknologi Kecerdasan Terintegrasi melalui Konsep dan Aplikasi**
+# 📘 Artificial Intelligence of Things (AIoT): Mewujudkan Teknologi Kecerdasan Terintegrasi melalui Konsep dan Aplikasi
 
 <p align="center">
   <img src="Cover Buku AIoT.jpg" width="700">
