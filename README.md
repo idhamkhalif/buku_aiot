@@ -1,7 +1,7 @@
 # 📘 Artificial Intelligence of Things (AIoT): Mewujudkan Teknologi Kecerdasan Terintegrasi melalui Konsep dan Aplikasi
 
 <p align="center">
-  <img src="Cover Buku AIoT.jpg" width="700">
+  <img src="Cover Buku AIoT.jpg" width="500">
 </p>
 
 Repository ini merupakan kumpulan kode program, contoh implementasi, dan studi kasus yang digunakan dalam buku: Artificial Intelligence of Things (AIoT): Mewujudkan Teknologi Kecerdasan Terintegrasi melalui Konsep dan Aplikasi
