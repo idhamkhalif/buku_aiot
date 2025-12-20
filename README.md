@@ -36,6 +36,9 @@ Membahas proses pelatihan dan evaluasi model *supervised learning* menggunakan d
 ### 🔹 D. Penerapan Model Kecerdasan *Machine Learning* pada Mikrokontroler
 Menjelaskan implementasi model kecerdasan buatan pada perangkat dengan keterbatasan sumber daya, seperti mikrokontroler. Bagian ini mencakup proses konversi model, optimasi ukuran model, serta integrasi sistem AI dengan perangkat IoT (*edge computing*).
 
+### 🔹 E. Penerapan Deteksi Objek Menggunakan Model Deep Learning YOLO (You Only Look Once)
+Menjelaskan implementasi model kecerdasan YOLOv8 untuk mendeteksi objek secara real-time menggunakan input kamera.
+
 ---
 
 📚 *Seluruh kode program dan contoh implementasi dalam repository ini disusun selaras dengan pembahasan pada BAB 6 buku Artificial Intelligence of Things (AIoT).*
